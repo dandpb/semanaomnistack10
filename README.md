@@ -18,13 +18,54 @@ SEGUE O LAYOUT DA APLICAÇÃO
 
 
 
-TECNOLOGIAS USADAS
+## :rocket: Technologies
+
+This project was developed at the [RocketSeat GoStack Bootcamp](https://rocketseat.com.br/bootcamp) with the following technologies:
+
+-  [NodeJS](https://nodejs.org/)
+-  [ReactJS](https://reactjs.org/)
+-  [ReactNative](https://facebook.github.io/react-native/)
 
 
 
+## :information_source: How To Use
 
+To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js v10.16][nodejs] or higher + [Yarn v1.13][yarn] or higher installed on your computer. From your command line:
 
-COMo USAR a Aplicação
+```bash
+# Clone this repository
+$ git clone https://github.com/dandpb/semanaomnistack10
+
+# Go into the repository
+$ cd semanaomnistack10
+
+#start backed
+$ cd BACKEND
+
+# Install dependencies
+$ yarn install
+
+# Run the app
+$ yarn dev
+
+#start web
+$ cd web
+
+# Install dependencies
+$ yarn install
+
+# Run the app
+$ yarn start
+
+#start mobile
+$ cd mobile
+
+# Install dependencies
+$ yarn install
+
+# Run the app
+$ yarn start
+```
 
 
 
